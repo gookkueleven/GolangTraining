@@ -1,0 +1,2 @@
+# GolangTraining
+TodMcleod Golang course
